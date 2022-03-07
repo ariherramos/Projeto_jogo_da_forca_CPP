@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1505077967 source:c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\main.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1505077762 c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\include\player.h
+	<iostream>
+	<string>
+
+1505092612 source:c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\src\hangman.cpp
+	"Hangman.h"
+
+1505092612 c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\include\hangman.h
+	<iostream>
+	<vector>
+	"Player.h"
+	"Dicitionary.h"
+	"Word.h"
+
+1505080786 source:c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\src\player.cpp
+	"Player.h"
+	"Hangman.h"
+
+1505080984 source:c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\src\dicitionary.cpp
+	"Dicitionary.h"
+
+1505099239 c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\include\dicitionary.h
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"time.h"
+	"Word.h"
+
+1505082914 c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\include\word.h
+	<iostream>
+	<string>
+
+1505083368 source:c:\users\arihe\desktop\jogo da forca\modelagem hangman oo\src\word.cpp
+	"Word.h"
+
+1505317840 source:c:\users\arihe\desktop\hangman\modelagem hangman oo\main.cpp
+	<iostream>
+	<string>
+	"Player.h"
+
+1505254647 c:\users\arihe\desktop\hangman\modelagem hangman oo\include\player.h
+	<iostream>
+	<string>
+
+1505318144 source:c:\users\arihe\desktop\hangman\modelagem hangman oo\src\hangman.cpp
+	"Hangman.h"
+
+1505255517 c:\users\arihe\desktop\hangman\modelagem hangman oo\include\hangman.h
+	<iostream>
+	<vector>
+	<string.h>
+	"Player.h"
+	"Dicitionary.h"
+	"Word.h"
+
+1505318144 c:\users\arihe\desktop\hangman\modelagem hangman oo\include\dicitionary.h
+	<iostream>
+	<vector>
+	<string>
+	<cstdlib>
+	"time.h"
+	"Word.h"
+
+1505318057 c:\users\arihe\desktop\hangman\modelagem hangman oo\include\word.h
+	<iostream>
+	<string>
+
+1505254911 source:c:\users\arihe\desktop\hangman\modelagem hangman oo\src\player.cpp
+	"Player.h"
+	"Hangman.h"
+
+1505255637 source:c:\users\arihe\desktop\hangman\modelagem hangman oo\src\word.cpp
+	"Word.h"
+
+1505318400 source:c:\users\arihe\desktop\hangman\modelagem hangman oo\src\dicitionary.cpp
+	"Dicitionary.h"
+	"Word.h"
+
